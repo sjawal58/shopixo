@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shopixo/static/css/main.5967e311.css",
+    "main.js": "/shopixo/static/js/main.5435570f.js",
+    "static/js/787.426efb36.chunk.js": "/shopixo/static/js/787.426efb36.chunk.js",
+    "static/media/error_page.png": "/shopixo/static/media/error_page.01e7c6cc0a1eed5d83e8.png",
+    "static/media/bg-image-2.png": "/shopixo/static/media/bg-image-2.03b721c630761b4f9435.png",
+    "static/media/shoppixo_logo.png": "/shopixo/static/media/shoppixo_logo.24366479f72c8cee38a1.png",
+    "index.html": "/shopixo/index.html",
+    "main.5967e311.css.map": "/shopixo/static/css/main.5967e311.css.map",
+    "main.5435570f.js.map": "/shopixo/static/js/main.5435570f.js.map",
+    "787.426efb36.chunk.js.map": "/shopixo/static/js/787.426efb36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5967e311.css",
+    "static/js/main.5435570f.js"
+  ]
+}
